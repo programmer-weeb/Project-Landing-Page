@@ -114,3 +114,28 @@ body > section.quote > p:nth-child(2) {
     margin-left: 764px;
     margin-top: 11px;
 }
+/* card */
+.call-to-action .card {
+    background-color: #3882f6;
+    padding: 3em 6em;
+    border-radius: 11px;
+    display: flex;
+    justify-content: space-between;
+    /* text-align: center; */
+    align-items: center;
+}
+.call-to-action {
+    padding: 3em 8em;
+    
+}
+body > section.call-to-action > div > p > span {
+    font-weight: 800;
+    font-size: large;
+    margin-bottom: 3px;
+}
+body > section.call-to-action > div > button {
+    background-color: #3882f6;
+    border: 3px solid white;
+    padding: 3px 11px;
+    border-radius: 7px;
+}
