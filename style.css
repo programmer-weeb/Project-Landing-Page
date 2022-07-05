@@ -139,3 +139,11 @@ body > section.call-to-action > div > button {
     padding: 3px 11px;
     border-radius: 7px;
 }
+/* footer */
+footer {
+    background-color: #1f2937;
+    padding: 3em 11em;
+}
+footer p {
+    text-align: center;
+}
