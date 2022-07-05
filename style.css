@@ -60,3 +60,35 @@ body > section > section > div.left > button {
     border-radius: 3px;
     padding: 2px 15px;
 }
+
+/* section-2 */
+.section-2 h3 {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: bold;
+    margin: 32px auto;
+    text-align: center;
+}
+
+.section-2 .boxes .box p{
+    color: #bdafaf;
+}
+.section-2 .box img {
+    width: 200px;
+    border-radius: 22px;
+    margin-bottom: 8px;
+}
+.boxes {
+    display: flex;
+    gap: 3em;
+    justify-content: space-evenly;
+    margin: 0 10%;
+
+}
+.box {
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+    width: 200px;
+}
