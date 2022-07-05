@@ -92,3 +92,25 @@ body > section > section > div.left > button {
     align-items: center; */
     width: 200px;
 }
+/* quote section */
+.quote {
+    background-color: #e5e7eb;
+    padding: 4em 11em;
+    /* text-align: center; */
+    margin-top: 11em;
+}
+
+body > section.quote > p:nth-child(1) {
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    font-weight: lighter;
+
+}
+body > section.quote > p:nth-child(2) {
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    margin-left: 764px;
+    margin-top: 11px;
+}
